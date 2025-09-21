@@ -6,3 +6,4 @@
 
 ##### This header is 5# header
 
+![Image of the Repo](https://octodex.github.com/images/yaktocat.png)
