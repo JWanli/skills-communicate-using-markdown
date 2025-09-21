@@ -6,8 +6,6 @@
 
 ##### This header is 5# header
 
-![Image of the Repo](https://octodex.github.com/images/yaktocat.png =300x200)
-
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
@@ -22,3 +20,5 @@ print("Hello, world!")
 - [x] add code example
 - [x] add todo list
 - [ ] not complete
+
+![Image of the Repo](https://octodex.github.com/images/yaktocat.png)
